@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Uzuvira
+- 👀 I’m interested in AI, IoT, Edge Computing, Cybersecurity & Information Security, Databases, Electronics. 
+- 🌱 I’m currently learning there is to learn regarding the development of technology. 
+- 💞️ I’m looking to collaborate on small impaactful projects. 
+- 📫 How to reach me through my email: seanmillz99@gmail.com
